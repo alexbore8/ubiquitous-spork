@@ -1,0 +1,18 @@
+Systems: 
+1. Whatever we are developing
+2. Represent it with rectangle
+
+Actor:
+1. Depicted by stick figure
+2. Someone that is using our system to achieve certain goal
+3. It can be: a person, an organization, another system and         an external device
+4. They are external objects
+5. Actors need to be thought of as types or categories.
+6. Primary actor: Initiate the use of the system (keep them on left hand side)
+7. Secondary actor: is more reactionary ( keep them on rhs)
+
+Use case:
+1. Describe what our system does
+2. Represent an action that accomplishes some sort of task in the system
+3. 
+
